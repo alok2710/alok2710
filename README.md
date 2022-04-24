@@ -53,9 +53,9 @@
 
 <p align = "center">
 
-[![Twitter](icons/twitter.png)](https://twitter.com/ALOKYAD80839592)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alok2710/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/alok_a.y/)
+[![Twitter](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png)](https://twitter.com/ALOKYAD80839592)
+[![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://www.linkedin.com/in/alok2710/)
+[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/alok_a.y/)
 
 </p>
 
