@@ -38,3 +38,10 @@
 [![Sublime text](https://img.shields.io/badge/Sublime%20Text-808080?style=flat-square&logo=sublimetext)](https://www.sublimetext.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok2710)](https://github.com/anuraghazra/github-readme-stats)
+
+<details open>
+  <summary>:zap: <b>Featured Repos</b></summary>
+  <br>
+  <p align = "center"> 
+  </p>
+</details>
