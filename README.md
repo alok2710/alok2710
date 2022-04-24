@@ -52,11 +52,16 @@
 <h2 align = "center">Social media</h2>
 
 <p align = "center">
-
-[![Twitter](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png)](https://twitter.com/ALOKYAD80839592)
-[![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://www.linkedin.com/in/alok2710/)
-[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/alok_a.y/)
-
+<a href="https://twitter.com/ALOKYAD80839592">
+  <img align="center" alt="@ALOKYAD80839592" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alok2710/">
+  <img align="center" alt="alok2710" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/alok_a.y/">
+  <img align="center" alt="@alok_a.y" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>&nbsp;&nbsp;
+  
 </p>
 
 <h2 align = "center"> CP profiles </h2>
