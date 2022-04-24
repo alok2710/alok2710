@@ -35,3 +35,4 @@
 [![Windows](https://img.shields.io/badge/Windows10-2004-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/windows)
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Sublime text](https://img.shields.io/badge/Sublime%20Text-FF8C00?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
