@@ -43,6 +43,7 @@
   <summary>:zap: <b>Featured Repos</b></summary>
   <br>
   <p align = "center"> 
+    <a href = "https://github.com/alok2710/test_python"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=alok2710" /></a>
   </p>
 </details>
 
