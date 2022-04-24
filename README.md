@@ -45,3 +45,37 @@
   <p align = "center"> 
   </p>
 </details>
+
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
+
+<h2 align = "center">Social media</h2>
+
+<p align = "center">
+
+[![Twitter](icons/twitter.png)](https://twitter.com/ALOKYAD80839592)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alok2710/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/alok_a.y/)
+
+</p>
+
+<h2 align = "center"> CP profiles </h2>
+
+<p align = "center">
+
+<a href="https://auth.geeksforgeeks.org/user/alokyadav0912/profile" title='geeksforgeeks'>
+    <img align="center" alt="Alok's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
+</a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/alok2710" title='Codechef'>
+    <img align="center" alt="Alok's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/alok2710" title='Codeforces'>
+    <img align="center" alt="Alok's Codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/alok2710/" title='LeetCode'>
+    <img align="center" alt="Alok's LeetCode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+</p>
+
+</details>
