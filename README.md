@@ -8,6 +8,7 @@
 - 🤹🏽 Fields I enjoy the most :
   - 👨‍💻 Web Develpoement
   - 🐧 Operating system
+  - 🐧 Ojected Oriented Programming 
   - Competative Coding
 - 🌱 I’m currently learning C++, Python, Data Structure and Algorithm
 - 💬 Ask me about anything
@@ -22,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/REACT%20-%231572B6.svg?&style=flat-square&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA%20-%231572B6.svg?&style=flat-square&logo=java&logoColor=white)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
